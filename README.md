@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Geilman的个人博客
 
-You can use the [editor on GitHub](https://github.com/Geilman/Geilman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 搭建个人博客的目的？
+  1. 作为进入圈子的名片，使对我有兴趣的人能更加深入的了解我
+	2. 记录我的成果，使我在未来嘲讽过去自己的无知有一个根据
+	3. 使我的“输出量”近可能等于“输入量”
+  
+###目标受众：
+	1.我自己
+  2.跟我一样折腾的青年
+  3.可能会带我的大佬
+  4.想要从我身上获得价值的人
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  
+###内容
+  1.我的技能树
+  2.成果
+      a. 绘画
+      b. 设计 
+      c. 3D 
+      d. 视频
+      e. 小游戏
+      f. 智能设备
+      g. 策划
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Geilman/Geilman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
